@@ -1,6 +1,7 @@
+Nunn_Network: So_Hip_Pix_Enterprises:Superadmin user:nunn@sohippix.net
 MIT License
 
-Copyright (c) 2023 Lumos Company, Inc.
+Copyright (c) 2023 John L.Nunn Jr. nunn@sohippix.net 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +20,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+Copyright (c) 2023 John L.Nunn Jr. nunn@sohippix.net 
